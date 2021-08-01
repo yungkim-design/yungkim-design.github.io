@@ -1,8 +1,7 @@
 # SITE CONFIGURATION
 title: Yung Kim # your site title
 author: Yung Kim # You :P
-description: > # YMeta description of Homepage
-  Yung's design portfolio
+description: Yung's design portfolio
 baseurl: "/sleek" # the subpath of your site, e.g. /blog
 url: "https://yungkim-design.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
